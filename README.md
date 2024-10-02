@@ -1,8 +1,7 @@
 # Homerwork 3
 
 [Tables](/tables.html)
-____
+<br>
 [List](/list.html)
-
-___
+<br>
 [Forms](/form.html)
