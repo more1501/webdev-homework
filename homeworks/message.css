@@ -1,0 +1,31 @@
+body
+{
+    border :2px solid red;
+    margin-left: 100px;
+    margin-top: 150px;
+    border-radius: 4px;
+    margin-right: 100px;
+    text-align: center;
+    background-color: antiquewhite;
+    font-size: 26px;
+    
+}
+.container
+{
+    
+    background-color: aliceblue;
+}
+
+.hello
+{
+    color: red;
+}
+
+.notice
+{
+    color #ddd;
+
+}
+
+
+
