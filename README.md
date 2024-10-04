@@ -11,3 +11,7 @@
 ---
 
 [login page](/homeworks/LoginPage.html)
+
+---
+
+[An HTML page](/homeworks/message.html)
