@@ -1,0 +1,60 @@
+*
+{
+
+}
+
+body
+{
+
+}
+
+header h2
+{
+    width: 150px;
+    border: 2px solid red;
+}
+header nav{
+    /* border: 2px solid red; */
+    position: absolute;
+    top: 25px;
+    right: 0px;
+    margin-right: 40px;
+
+}
+
+header nav a{
+    border: 2px solid blue;
+    margin: 20px;
+    background-color: #ddd;
+}
+
+.menu
+{
+    background-color: aliceblue;
+}
+
+.section2
+{
+    position: absolute;
+    top: 65px;
+    right: 25px;
+}
+
+section h2
+{
+    text-align: center;
+    text-decoration: underline;
+    color: blue;
+}
+.section2 img{
+    margin-right: 250px;
+    width: 200px;
+}
+.section1
+{
+    margin-left: 250px;
+}
+.section1 img{
+    width: 200px;
+}
+
