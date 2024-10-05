@@ -18,4 +18,4 @@
 
 ---
 
-[homework_5 ui design ](/homeworks/practice.html)
+[homework_5_ui_design ](/homeworks/practice.html)
